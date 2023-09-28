@@ -1,0 +1,25 @@
+.search-field{
+	height: 50px;
+	padding: 10px;
+	outline: none;
+	padding-right: 300px;
+
+}
+.state{
+	width: 400px;
+}
+.search-btn{
+	height: 50px;
+	width: 150px;
+	background: #ffeb3b;
+	border: none;
+	color: #000;	
+}
+.search-btn:hover{
+	background: #ffc107;
+	cursor: pointer;
+}
+.form-box{
+	text-align: center;
+	margin-top: 300px;
+}
